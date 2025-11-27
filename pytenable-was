@@ -1,0 +1,9 @@
+pytenable_was/
+├── __init__.py
+├── client.py               # API client wrapper
+├── endpoints/
+│   ├── __init__.py
+│   ├── assets.py           # /was/v2/assets/
+│   ├── scans.py            # /was/v2/scans/
+│   ├── plugins.py          # /was/v2/plugins/
+│   └── templates.py        #
