@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # ==================================================================================================
-# Comprehensive Tenable Nessus Agent Health Check (Unix/Linux) — explicit, no grouping, no trimming
+# Comprehensive Tenable Nessus Agent Health Check (Unix/Linux)
 # --------------------------------------------------------------------------------------------------
 # PURPOSE:
-# End-to-end, idiot-proof health check for Tenable Nessus Agent on Unix/Linux systems.
+# Tenable Nessus Agent Health Check on Unix/Linux systems.
 # Produces:
 # • A timestamped runtime log file: tenable_nessus_agent_<UTC>.log
 # • A numbered, human-readable summary file: summary.txt
